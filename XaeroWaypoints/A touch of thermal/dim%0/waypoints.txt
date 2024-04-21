@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Unnamed Waystone:U:712:116:-789:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Unnamed Waystone:U:739:66:-295:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:SaharanVillage:S:1217:65:1:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Exploring:E:840:58:762:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:HomeSweetHome:H:61:74:-654:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Unnamed Waystone:U:1072:66:1066:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Exploring:E:1274:72:793:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Exploring:E:1276:52:561:3:false:0:gui.xaero_default:false:0:0:false

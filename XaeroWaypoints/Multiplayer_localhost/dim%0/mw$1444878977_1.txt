@@ -1,0 +1,12 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint:D:79:28:8:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:128:61:247:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Unnamed Waystone:U:107:66:10:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Giant Nether:G:30:74:-1140:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Starter Base:S:11:66:-25:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:DungeonDelving:D:221:-43:54:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:StarterBase2:S:10:66:-25:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:DungeonDelving:D:104:-35:96:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Glowshrooms:G:679:-40:-548:2:false:0:gui.xaero_default:false:0:0:false

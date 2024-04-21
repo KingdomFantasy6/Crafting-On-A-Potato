@@ -52,7 +52,7 @@
 [client]
 	#The percentage of particles that should be displayed, where 1 is 100% and 0 is 0%
 	#Range: 0.0 ~ 1.0
-	particleAmount = 1.0
+	particleAmount = 0.3
 	#If particle spawning should respect the particle setting in Minecraft's video settings screen
 	respectVanillaParticleSettings = true
 	#The percentage of particles that should spawn when there is an excess amount of Aura in the environment, where 1 is 100% and 0 is 0%
