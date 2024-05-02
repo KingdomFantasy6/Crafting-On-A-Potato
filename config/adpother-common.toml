@@ -20,12 +20,12 @@ maxGasEntitiesInChunk = 10
 	explosionInteraction = "TNT"
 	#Maximum gas blocks that can be involved in an explosive chain reaction
 	#Range: 0 ~ 2048
-	maxChainLength = 128
+	maxChainLength = 512
 
 [EmissionSources]
 	#Rate of emissions from this source
 	#Range: 0.0 ~ 10.0
-	Breakables = 0.2
+	Breakables = 1.0
 	#Rate of emissions from this source
 	#Range: 0.0 ~ 10.0
 	Entities = 1.0
@@ -54,17 +54,17 @@ maxGasEntitiesInChunk = 10
 	#Enables / disables emissions from this source
 	HostileMobBurning = true
 	#Enables / disables emissions from this source
-	PlayerEating = false
+	PlayerEating = true
 	#Enables / disables emissions from this source
-	PlayerBurning = false
+	PlayerBurning = true
 	#Enables / disables emissions from this source
-	AnimalBurning = false
+	AnimalBurning = true
 	#Enables / disables emissions from this source
-	AnimalFeeding = false
+	AnimalFeeding = true
 	#Enables / disables emissions from this source
 	AnimalDying = true
 	#Enables / disables emissions from this source
-	PlayerDying = false
+	PlayerDying = true
 
 	[EmissionSources.Mods]
 		#Rate of emissions from this source

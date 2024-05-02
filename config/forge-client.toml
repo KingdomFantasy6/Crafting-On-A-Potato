@@ -18,7 +18,7 @@
 	#May result in differences between vanilla rendering and forge rendering.
 	#Will only produce differences for blocks that contain non-axis aligned faces.
 	#You will need to reload your resources to see results.
-	calculateAllNormals = true
+	calculateAllNormals = false
 	#When enabled, a slightly biased Direction#getNearest calculation will be used to prevent normal fighting on 45 degree angle faces.
 	stabilizeDirectionGetNearest = true
 
